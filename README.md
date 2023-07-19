@@ -1,0 +1,3 @@
+# albert-chatbot-api
+
+backend for the project [albert-chatbot](https://github.com/Vinny-knzts/albert-chatbot)
